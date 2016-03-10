@@ -1,0 +1,7 @@
+apple
+dog
+dog
+cat
+gorilla
+tree
+
